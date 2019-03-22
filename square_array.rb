@@ -7,4 +7,3 @@ square_numbers**2
 return square_numbers
 end
 end
-end
