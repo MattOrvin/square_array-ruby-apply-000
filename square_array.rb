@@ -1,9 +1,8 @@
 
-numbers = []
 
-def square_array(numbers)
-numbers.each do |square_numbers|
+
+def square_array(array)
+array.each do |square_numbers|
 square_numbers**2
-
 end
 end
